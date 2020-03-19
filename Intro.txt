@@ -1,0 +1,7 @@
+-ITC stands for Inter-Thread Communicator.
+-It simplifies multi-threads programming by providing message passing mechanism.
+-ITC allows threads to communicate with each other like using sockets with multiple advantages:
+1. Light-weight.
+2. Strong typed messages.
+3. Simple, only one header file is needed.
+4. Doesnt use up port number.
